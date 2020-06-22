@@ -5,13 +5,19 @@ body, html {
   }
 h1{
     font-size:  50px;
+    font-family: 'Piedra', cursive;
 }
 h2{
     font-size:  35px;
+    font-family: 'Piedra', cursive;
 }
 p{
     font-size: 14px;
+    color:rgb(121, 116, 116);
+    font-family: 'Ubuntu', sans-serif;
 }
+
+
 
 
 .half img{
